@@ -9,7 +9,7 @@ import Panels from './components/Panels'
 
 export default {
   components: {
-    Panels
+    Panels,
   }
 }
 </script>
