@@ -1,4 +1,6 @@
-# v-expansion-panel-sample
+# Error 
+
+It isn't working as i expect when use "v-expansion-panel".
 
 ## Project setup
 ```
